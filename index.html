@@ -10,7 +10,7 @@
       <ul>
         <li><a href="project-1-jupiter.html">Jupiter</a></li>
         <li><a href="resume.html">Resume</a></li>
-        <li><a href="project-1-uno.html">UNO</a></li>
+        <li><a href="project-1-uno.html">Uno Facts</a></li>
       </ul>
     </nav>
   </header>
