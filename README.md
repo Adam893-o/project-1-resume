@@ -9,7 +9,7 @@
     <nav>
       <ul>
         <li><a href="jupiter.html">About Jupiter</a></li>
-        <li><a href="resume.html">Adam's Resume</a></li>
+        <li><a href="project-1-resume.html">Adam's Resume</a></li>
         <li><a href="uno.html">Uno Facts</a></li>
       </ul>
     </nav>
